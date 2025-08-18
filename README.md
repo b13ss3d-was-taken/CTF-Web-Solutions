@@ -8,21 +8,24 @@ Click on any platform/event to view the challenges:
 
 #### 🎯 [HackTheBox (HTB)](#hackthebox-htb)
 #### 🔍 [MISC Challenges](#misc-challenges)
+#### 🛡️ [HackDEF 9](#hackdef-9)
 
 ---
 
 ## HackTheBox (HTB)
 
-| Challenge Name                                       | Difficulty | Keywords                 | Solution                                |
-| ---------------------------------------------------- | ---------- | ------------------------ | --------------------------------------- |
-| [Flag Command](./HTB/Flag%20Command/solution.md)     | Very Easy  | Function Exposure        | [📝](./HTB/Flag%20Command/solution.md)   |
-| [Only Hacks](./HTB/Only%20Hacks/solution.md)         | Very Easy  | XSS                      | [📝](./HTB/Only%20Hacks/solution.md)     |
-| [Templated](./HTB/Templated/solution.md)             | Easy       | Jinja SSTI               | [📝](./HTB/Templated/solution.md)        |
-| [Trapped Source](./HTB/Trapped%20Source/solution.md) | Very Easy  | Info Disclosure          | [📝](./HTB/Trapped%20Source/solution.md) |
-| [Jailbreak](./HTB/Jailbreak/solution.md)             | Easy       | XXE                      | [📝](./HTB/Jailbreak/solution.md)        |
-| [Spookifier](./HTB/Spookifier/solution.md)           | Very Easy  | Mako SSTI                | [📝](./HTB/Spookifier/solution.md)       |
-| [Letter Dispair](./HTB/Letter%20Dispair/solution.md) | Easy       | Lack of sanitization/PHP | [📝](./HTB/Letter%20Dispair/solution.md) |
-| [Phonebook](./HTB/Phonebook/solution.md)           | Easy       | LDAP Injection                      | [📝](./HTB/Phonebook/solution.md)       |
+| Challenge Name                                         | Difficulty | Keywords                         | Solution                                 |
+| ------------------------------------------------------ | ---------- | -------------------------------- | ---------------------------------------- |
+| [Flag Command](./HTB/Flag%20Command/README.md)         | Very Easy  | Function Exposure                | [📝](./HTB/Flag%20Command/README.md)      |
+| [Only Hacks](./HTB/Only%20Hacks/README.md)             | Very Easy  | XSS                              | [📝](./HTB/Only%20Hacks/README.md)        |
+| [Templated](./HTB/Templated/README.md)                 | Easy       | Jinja SSTI                       | [📝](./HTB/Templated/README.md)           |
+| [Trapped Source](./HTB/Trapped%20Source/README.md)     | Very Easy  | Info Disclosure                  | [📝](./HTB/Trapped%20Source/README.md)    |
+| [Jailbreak](./HTB/Jailbreak/README.md)                 | Easy       | XXE                              | [📝](./HTB/Jailbreak/README.md)           |
+| [Spookifier](./HTB/Spookifier/README.md)               | Very Easy  | Mako SSTI                        | [📝](./HTB/Spookifier/README.md)          |
+| [Letter Dispair](./HTB/Letter%20Dispair/README.md)     | Easy       | Lack of sanitization/PHP         | [📝](./HTB/Letter%20Dispair/README.md)    |
+| [Phonebook](./HTB/Phonebook/README.md)                 | Easy       | LDAP Injection                   | [📝](./HTB/Phonebook/README.md)           |
+| [baby nginxatsu](./HTB/baby%20nginxatsu/README.md)     | Easy       | Directory Listing, Hash Cracking | [📝](./HTB/baby%20nginxatsu/README.md)    |
+| [Full Stack Conf](./HTB/Full%20Stack%20Conf/README.md) | Easy       |                                  | [📝](./HTB/Full%20Stack%20Conf/README.md) |
 
 ---
 
@@ -30,9 +33,17 @@ Click on any platform/event to view the challenges:
 
 Challenges solved during ICC preparation - original sources unknown or unverified.
 
-| Challenge Name                                        | Difficulty | Keywords                                        | Solution                                |
-| ----------------------------------------------------- | ---------- | ----------------------------------------------- | --------------------------------------- |
-| [Breath-Roulette](./MISC/Breath-Roulette/solution.md) | Easy       | Trusting Client-Side Logic/Lack of restrictions | [📝](./MISC/Breath-Roulette/solution.md) |
+| Challenge Name                                      | Difficulty | Keywords                                        | Solution                              |
+| --------------------------------------------------- | ---------- | ----------------------------------------------- | ------------------------------------- |
+| [Breath-Roulette](./MISC/Breath-Roulette/README.md) | Easy       | Trusting Client-Side Logic/Lack of restrictions | [📝](./MISC/Breath-Roulette/README.md) |
 
 For more information about these challenges, see [MISC README](./MISC/README.md).
+
+---
+
+## HackDEF 9
+
+| Challenge Name                             | Difficulty | Keywords          | Solution                             |
+| ------------------------------------------ | ---------- | ----------------- | ------------------------------------ |
+| [Crédito](./HackDEF%209/Crédito/README.md) | Easy       | Command Injection | [📝](./HackDEF%209/Crédito/README.md) |
 
