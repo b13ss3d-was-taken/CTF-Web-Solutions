@@ -25,7 +25,8 @@ Click on any platform/event to view the challenges:
 | [Letter Dispair](./HTB/Letter%20Dispair/README.md)     | Easy       | Lack of sanitization/PHP         | [📝](./HTB/Letter%20Dispair/README.md)    |
 | [Phonebook](./HTB/Phonebook/README.md)                 | Easy       | LDAP Injection                   | [📝](./HTB/Phonebook/README.md)           |
 | [baby nginxatsu](./HTB/baby%20nginxatsu/README.md)     | Easy       | Directory Listing, Hash Cracking | [📝](./HTB/baby%20nginxatsu/README.md)    |
-| [Full Stack Conf](./HTB/Full%20Stack%20Conf/README.md) | Easy       |                                  | [📝](./HTB/Full%20Stack%20Conf/README.md) |
+| [Full Stack Conf](./HTB/Full%20Stack%20Conf/README.md) | Easy       | XSS                              | [📝](./HTB/Full%20Stack%20Conf/README.md) |
+| [Sattrack](./HTB/Sattrack/README.md)                   | Medium     | Prototype pollution, XSS        | [📝](./HTB/Sattrack/README.md)            |
 
 ---
 
